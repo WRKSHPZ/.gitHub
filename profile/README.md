@@ -11,6 +11,9 @@ Onze community is gericht op actief bezig zijn met het delen van kennis rond de 
 | September | 28 september | IoT - cognitive services       |
 | November  | 30 november  | Exploring .NET 8               |
 
+## Belangrijk
+- Neem je eigen laptop mee
+- 
 
 <!--
 

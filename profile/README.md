@@ -7,7 +7,7 @@ Onze community is gericht op actief bezig zijn met het delen van kennis rond de 
 ## Agenda 2023
 | Maand     | Datum        | Onderwerp                      |
 |-----------|--------------|--------------------------------|
-| Juni      | 22 juni      | AI Tooling                     |
+| [Juni](/2023/06/README.md) | 22 juni      | AI Tooling                     |
 | September | 28 september | IoT - cognitive services       |
 | November  | 30 november  | Exploring .NET 8               |
 

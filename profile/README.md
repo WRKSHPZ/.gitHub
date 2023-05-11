@@ -13,7 +13,8 @@ Onze community is gericht op actief bezig zijn met het delen van kennis rond de 
 
 ## Belangrijk
 - Neem je eigen laptop mee
-- 
+- Uitleg is in het Nederlands
+- Workshop materialen zijn vaak in het Engels
 
 <!--
 

@@ -1,6 +1,6 @@
 # WRKSHP #1 - AI Tooling (juni 2023)
 
-[https://www.meetup.com/wrkshpz/events/293464822/] https://www.meetup.com/wrkshpz/events/293464822/
+[https://www.meetup.com/wrkshpz/events/293464822/] (https://www.meetup.com/wrkshpz/events/293464822/)
 
 ## Wat gaan we doen?
 We gaan aan de slag met diverse beschikbare AI tooling als ChatGPT, Github Copilot X, Midjourney, Dall-e.

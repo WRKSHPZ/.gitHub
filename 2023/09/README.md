@@ -1,4 +1,4 @@
-# WRKSHP #2 - IoT Cognitivie Services (september 2023)
+# WRKSHP #2 - IoT Cognitive Services (september 2023)
 
 www.meetup.com/wrkshpz/events
 

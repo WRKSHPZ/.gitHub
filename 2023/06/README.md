@@ -1,6 +1,7 @@
 # WRKSHP #1 - AI Tooling (juni 2023)
 
 ## Programma
+| Tijd  | Omschrijving          |
 |-------|-----------------------|
 | 18:00 | Inloop                |
 | 18:30 | Eten                  |

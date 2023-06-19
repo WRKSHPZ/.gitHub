@@ -17,4 +17,4 @@ Hoe helpt deze tooling je in je dagelijkse werk, hoe maken deze tools je product
 | 20:30 | Wrap-up & borrel      |
 
 ## Repo
-(https://github.com/WRKSHPZ/space-invaders)[https://github.com/WRKSHPZ/space-invaders]
+[https://github.com/WRKSHPZ/space-invaders](https://github.com/WRKSHPZ/space-invaders)

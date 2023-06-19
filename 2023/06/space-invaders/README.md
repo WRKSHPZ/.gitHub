@@ -44,4 +44,4 @@ Gebruik AI tooling (AIVA) om muziek en soundeffecten te genereren voor de game. 
 
 ## Features
 Vraag aan de AI tool (ChatGPT, Github CoPilot) om specifieke features te implementeren, zoals explosies, scorebord, end game conditions, bewegende vijanden, etc. 
-Een lijst met voorbeeld features staat in (issues.md)[issues.md]
+Een lijst met voorbeeld features staat in [issues.md](issues.md)

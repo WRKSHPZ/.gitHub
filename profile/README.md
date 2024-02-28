@@ -4,7 +4,7 @@
 
 Onze community is gericht op actief bezig zijn met het delen van kennis rond de onderwerpen .NET software development, AI, IoT & cloud. We organiseren 6x per jaar een event waar je na een korte introductie rond het onderwerp, zelf aan de slag gaat met de materie.
 
-## Agenda 2023
+## Agenda 2024
 | Maand                            | Datum        | Onderwerp                      |
 |----------------------------------|--------------|--------------------------------|
 | [Juni](/2023/06/README.md)       | 22 juni      | AI Tooling                     |

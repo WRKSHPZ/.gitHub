@@ -7,9 +7,9 @@ Onze community is gericht op actief bezig zijn met het delen van kennis rond de 
 ## Agenda 2024
 | Maand                            | Datum        | Onderwerp                      |
 |----------------------------------|--------------|--------------------------------|
-| [Juni](/2023/06/README.md)       | 22 juni      | AI Tooling                     |
-| [September](/2023/09/README.md)  | 28 september | IoT - cognitive services       |
-| [November](/2023/11/README.md)   | 30 november  | Exploring .NET 8               |
+| [Februari](/2024/02/README.md)       | 29 februari      | Machine learning - Mario kart                     |
+| [April](/2024/04/README.md)  | 25 april | Boost your Azure Functions with API Management      |
+| [November](/2024/07/README.md)   | 6 juli  | TBD |
 
 ## Belangrijk
 - Neem je eigen laptop mee

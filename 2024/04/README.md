@@ -1,6 +1,6 @@
 # WRKSHP #5 - Boost your Azure Functions with API Management (april 2024)
 
-Meetup link TBD
+[Meetup link](https://www.meetup.com/wrkshpz/events/299506955/)
 
 ## Wat gaan we doen?
 Are you wasting precious development time adding authentication and other features to your PowerShell Azure Functions? Stop doing this and start leveraging the power of serverless Azure API Management.

@@ -1,6 +1,6 @@
 # WRKSHP #6 - TBD
 
-Meetup link TBD
+[Meetup link](https://www.meetup.com/wrkshpz/events/299507240)
 
 ## Wat gaan we doen?
 TBD

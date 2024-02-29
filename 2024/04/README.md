@@ -3,11 +3,9 @@
 [Meetup link](https://www.meetup.com/wrkshpz/events/299506955/)
 
 ## Wat gaan we doen?
-Are you wasting precious development time adding authentication and other features to your PowerShell Azure Functions? Stop doing this and start leveraging the power of serverless Azure API Management.
+Verspil je nu kostbare ontwikkeltijd met het toevoegen van authenticatie en andere functies aan je PowerShell Azure Functions? Stop hiermee en begin de kracht van serverless Azure API Management te benutten.
 
-In this talk you will learn how to use API Management to add authentication and you will also learn how to connect to the Azure Key Vault to secure your functions even more. To top it off you will learn how to set this up in a scalable way by utilizing the serverless platform. You will also learn how to set up reusable parts in your API management to save even more work.
-
-So if you don’t want to worry about security when writing PowerShell Azure Functions then join this talk to learn how to offload that!
+In deze workshop leer je hoe je API Management kunt gebruiken om authenticatie toe te voegen, en je leert ook hoe je verbinding kunt maken met de Azure Key Vault om je functies nog meer te beveiligen. Bovendien leer je hoe je dit op een schaalbare manier kunt opzetten door gebruik te maken van het serverless platform. Je leert ook hoe je herbruikbare onderdelen kunt opzetten in je API-beheer om nog meer werk te besparen.
 
 https://github.com/WRKSHPZ/functions-apim
 

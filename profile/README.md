@@ -4,6 +4,8 @@
 
 Onze community is gericht op actief bezig zijn met het delen van kennis rond de onderwerpen .NET software development, AI, IoT & cloud. We organiseren 6x per jaar een event waar je na een korte introductie rond het onderwerp, zelf aan de slag gaat met de materie.
 
+## [Workshop catalogus](https://github.com/WRKSHPZ/.gitHub/blob/main/README.md)
+
 ## Agenda 2024
 | Maand                            | Datum        | Onderwerp                      |
 |----------------------------------|--------------|--------------------------------|

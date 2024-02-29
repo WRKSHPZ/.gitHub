@@ -9,7 +9,7 @@ Onze community is gericht op actief bezig zijn met het delen van kennis rond de 
 |----------------------------------|--------------|--------------------------------|
 | [Februari](/2024/02/README.md)       | 29 februari      | Machine learning - Mario kart                     |
 | [April](/2024/04/README.md)  | 25 april | Boost your Azure Functions with API Management      |
-| [November](/2024/07/README.md)   | 6 juli  | TBD |
+| [Juli](/2024/07/README.md)   | 6 juli  | TBD |
 
 ## Belangrijk
 - Neem je eigen laptop mee
